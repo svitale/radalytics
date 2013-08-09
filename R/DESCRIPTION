@@ -1,0 +1,10 @@
+Package: radalytics
+Title: radalytics: Sample Analysis Using 
+Version: 0.1
+Date: 2013-05-30
+Author: Steven Vitale, Joseph Linnett
+Description: Some functions for analyzing biological sample and assay data
+Maintainer: Steven Vitale <svitale@upenn.edu>
+Dependencies: drc
+Imports: drc
+License: MIT

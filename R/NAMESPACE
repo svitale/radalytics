@@ -1,0 +1,7 @@
+export(
+        fourplfit,
+	fiveplfit,
+	linearfit,
+	westgard,
+	applyStandards
+       )
