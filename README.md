@@ -19,3 +19,5 @@ R CMD build radalytics
 
 to install the package once you've built it:
 R CMD INSTALL  radalytics_0.1.tar.gz
+
+I think this is a great project!
